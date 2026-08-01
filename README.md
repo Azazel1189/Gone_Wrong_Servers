@@ -4,15 +4,15 @@ Public Windows beta releases for Gone Wrong Servers by Gone Wrong Gaming.
 
 ## Current beta
 
-- Version: **0.1.0 Beta 7.0.3**
+- Version: **0.1.0 Beta 7.0.4**
 - Windows: 10 or 11, 64-bit
-- [Download the installer](https://github.com/Azazel1189/Gone_Wrong_Servers/releases/download/v0.1.0-beta.7.0.3/GoneWrongServers-Setup-0.1.0-beta.7.0.3-win-x64.exe)
-- [Read the release notes](https://github.com/Azazel1189/Gone_Wrong_Servers/releases/tag/v0.1.0-beta.7.0.3)
+- [Download the installer](https://github.com/Azazel1189/Gone_Wrong_Servers/releases/download/v0.1.0-beta.7.0.4/GoneWrongServers-Setup-0.1.0-beta.7.0.4-win-x64.exe)
+- [Read the release notes](https://github.com/Azazel1189/Gone_Wrong_Servers/releases/tag/v0.1.0-beta.7.0.4)
 
 SHA-256:
 
 ```text
-4b048da7345db168d05bb80ed429dac74703229f5ad9b72ce6ef8beb22a66620
+2591710762e4d1a1d8ff7351e89b2bd91595abb532d923c8115d5b55286a49bd
 ```
 
 This beta installer is not yet code-signed, so Windows may show an unknown
